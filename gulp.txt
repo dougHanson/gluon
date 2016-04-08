@@ -1,0 +1,2 @@
+> gulp            // will generate favicons
+> gulp publish    // compiles sass, and minimises and concatenates all files
